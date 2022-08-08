@@ -1,1 +1,47 @@
-# lichie_lich
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Stas
+Coding enthusiast from Russia. Currently working with QA automation and studying Ruby on Rails web development. Want to be expirienced enough to become open source contributor. Dreaming about creating some new useful tools for everyday job automation.
+```ruby
+class About
+  @@name = 'Stanislav Kolkov'
+  @@role = 'QA automation engineer'
+  @@language_spoken = ['ru', 'en']
+
+  def code_available
+    { ruby: 'medium', java: 'low' }
+  end
+
+  def known_technologies
+    {
+      web_back: ['Rails', 'Active Record', 'Devise', 'I18n'],
+      ruby_common: ['Rspec', 'Minitest', 'Rubocop'],
+      fronted: ['HTML', 'CSS', 'Bootstrap', 'Slim'],
+      database: ['SQLite', 'PostgreSQL', 'Oracle DB'],
+      autotests: ['Selenium', 'Cucumber', 'Capybara', 'Site Prism']
+    }
+  end
+
+  def hobbies
+    ['Coding', 'Guitar', 'Bass', 'Snowboarding', 'Videogames', 'Martial arts']
+  end
+
+  def say_hello
+    puts "Hello! My name is #{@@name} and I'm a #{@@role}. What I can do:"
+    pp code_available, known_technologies
+    puts 'What I like to do:'
+    pp hobbies
+  end
+end
+
+
+me = About.new
+me.say_hello
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichielich&layout=compact)
+
+![LichieLich's github stats](https://github-readme-stats.vercel.app/api?username=lichielich&count_private=true&show_icons=true&theme=onedark)
+
+Reach me:
+
+<img src="https://user-images.githubusercontent.com/72043094/183534048-902ae22c-0cf1-463b-9c0c-5906f20f41df.png" width="30" height="20" alt="e-mail"> lichie_lich@mail.ru
+
+<img src="https://user-images.githubusercontent.com/72043094/183533973-b6dc2214-1439-4b78-8dae-5a7064e5cd0d.jpg" width="28" height="28" alt="e-mail"> @skolkov
