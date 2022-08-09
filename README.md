@@ -1,11 +1,17 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Stas
 Coding enthusiast from Russia. Currently working with QA automation and studying Ruby on Rails web development. Want to be expirienced enough to become open source contributor. Dreaming about creating some new useful tools for everyday job automation.
 ```ruby
-class About
-  @@name = 'Stanislav Kolkov'
-  @@role = 'QA automation engineer'
-  @@language_spoken = ['ru', 'en']
+class Me
+  class << self
+    attr_reader :name, :role, :language_spoken
+  end
 
+  @name = 'Stanislav Kolkov'
+  @role = 'QA automation engineer'
+  @language_spoken = ['ru', 'en']
+end
+
+class About < Me
   def code_available
     { ruby: 'medium', java: 'low' }
   end
@@ -25,13 +31,12 @@ class About
   end
 
   def say_hello
-    puts "Hello! My name is #{@@name} and I'm a #{@@role}. What I can do:"
+    puts "Hello! My name is #{Me.name} and I'm a #{Me.role}. What I can do:"
     pp code_available, known_technologies
     puts 'What I like to do:'
     pp hobbies
   end
 end
-
 
 me = About.new
 me.say_hello
