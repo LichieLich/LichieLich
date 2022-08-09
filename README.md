@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Stas
-Coding enthusiast from Russia. Currently working with QA automation and studying Ruby on Rails web development. Want to be expirienced enough to become open source contributor. Dreaming about creating some new useful tools for everyday job automation.
+Coding enthusiast from Russia. Currently working as a QA automation engineer and studying Ruby on Rails web development. Want to be expirienced enough to become open source contributor. Dreaming about creating some new useful tools for everyday job automation.
 ```ruby
 class Me
   class << self
