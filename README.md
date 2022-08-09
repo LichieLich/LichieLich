@@ -49,4 +49,5 @@ Reach me:
 Just a random programming joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
