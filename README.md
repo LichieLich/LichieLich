@@ -45,3 +45,8 @@ Reach me:
 <img src="https://user-images.githubusercontent.com/72043094/183534048-902ae22c-0cf1-463b-9c0c-5906f20f41df.png" width="30" height="20" alt="e-mail"> lichie_lich@mail.ru
 
 <img src="https://user-images.githubusercontent.com/72043094/183533973-b6dc2214-1439-4b78-8dae-5a7064e5cd0d.jpg" width="28" height="28" alt="e-mail"> @skolkov
+
+Just a random programming joke:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
