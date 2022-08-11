@@ -45,6 +45,9 @@ me.say_hello
 
 ![LichieLich's github stats](https://github-readme-stats.vercel.app/api?username=lichielich&count_private=true&show_icons=true&theme=onedark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Reach me:
 
 <img src="https://user-images.githubusercontent.com/72043094/183534048-902ae22c-0cf1-463b-9c0c-5906f20f41df.png" width="30" height="20" alt="e-mail"> lichie_lich@mail.ru
