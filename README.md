@@ -45,6 +45,7 @@ me.say_hello
 
 ![LichieLich's github stats](https://github-readme-stats.vercel.app/api?username=lichielich&count_private=true&show_icons=true&theme=onedark)
 
+<!--📊 **this week i spent my time on:**-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
