@@ -43,9 +43,7 @@ me.say_hello
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichielich&layout=compact)
 
-![LichieLich's github stats](https://github-readme-stats.vercel.app/api?username=lichielich&count_private=true&show_icons=true&theme=onedark)
-
-<!--📊 **this week i spent my time on:**-->
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -58,6 +56,8 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![LichieLich's github stats](https://github-readme-stats.vercel.app/api?username=lichielich&count_private=true&show_icons=true&theme=onedark)
 
 Reach me:
 
