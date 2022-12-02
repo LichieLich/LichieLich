@@ -47,11 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       1 hr 2 mins     ██████████████████░░░░░░░   72.40 %
-Gherkin    18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-YAML       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
