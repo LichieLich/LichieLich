@@ -47,12 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```text
-YAML       14 mins         █████████░░░░░░░░░░░░░░░░   36.49 %
-Ruby       12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-Makefile   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Slim       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-CSS        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-SCSS       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
