@@ -47,7 +47,11 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Ruby       21 mins         █████████████▓░░░░░░░░░░░   55.25 %
+Slim       11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+Markdown   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
