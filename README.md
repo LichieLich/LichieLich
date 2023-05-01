@@ -47,7 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other      27 mins         █████████▓░░░░░░░░░░░░░░░   39.28 %
 ```
 
 <!--END_SECTION:waka-->
