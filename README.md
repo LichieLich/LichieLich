@@ -46,7 +46,7 @@ me.say_hello
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
