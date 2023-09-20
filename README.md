@@ -47,7 +47,10 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Slim           1 hr 26 mins    █████████████░░░░░░░░░░░░   52.29 %
+Ruby           1 hr 18 mins    ████████████░░░░░░░░░░░░░   47.37 %
+CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
