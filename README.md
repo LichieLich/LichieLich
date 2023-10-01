@@ -47,8 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy   8 mins          ████████████▓░░░░░░░░░░░░   51.04 %
-Java     8 mins          ████████████▒░░░░░░░░░░░░   48.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
