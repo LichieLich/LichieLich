@@ -47,11 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   9 mins          ████████████▒░░░░░░░░░░░░   49.98 %
-Ruby    7 mins          █████████▒░░░░░░░░░░░░░░░   37.68 %
-Other   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-YAML    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Slim    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
