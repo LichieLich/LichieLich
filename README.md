@@ -47,9 +47,9 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Slim         0 secs          ███████████████░░░░░░░░░░   59.86 %
-Other        0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Slim         0 secs          ███████████▓░░░░░░░░░░░░░   46.86 %
+Other        0 secs          █████████▓░░░░░░░░░░░░░░░   39.03 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
 ```
 
 <!--END_SECTION:waka-->
