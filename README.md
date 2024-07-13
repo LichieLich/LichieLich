@@ -47,8 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Text   17 mins         ████████████████████████░   96.03 %
-YAML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Text   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
