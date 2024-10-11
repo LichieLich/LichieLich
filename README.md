@@ -47,8 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Text   1 min           ██████████████▓░░░░░░░░░░   58.86 %
-YAML   0 secs          ██████████▒░░░░░░░░░░░░░░   41.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
