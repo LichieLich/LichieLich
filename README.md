@@ -47,10 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-Text       13 mins         ██████████████░░░░░░░░░░░   56.57 %
-Ruby       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-YAML       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Markdown   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
