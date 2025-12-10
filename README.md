@@ -47,7 +47,9 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby    20 mins         █████████████████████▓░░░   87.09 %
+Text    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
