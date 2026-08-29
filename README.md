@@ -47,7 +47,8 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin     3 mins                ██████████████████████░░░   87.36 %
+Markdown   0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
 ```
 
 <!--END_SECTION:waka-->
