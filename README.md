@@ -47,8 +47,7 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-JSON    0 secs                █████████████▒░░░░░░░░░░░   53.43 %
-Other   0 secs                ███████████▓░░░░░░░░░░░░░   46.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
