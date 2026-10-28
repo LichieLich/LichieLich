@@ -47,7 +47,9 @@ me.say_hello
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Image (svg)   23 mins               ███████████████████████▒░   92.79 %
+YAML          1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
